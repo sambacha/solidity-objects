@@ -8,26 +8,26 @@
 		"test": "test"
 	},
 	"dependencies": {
-		"ajv": "^6.12.2",
-		"bluebird": "^3.7.1",
-		"bn.js": "^5.0.0",
-		"camel-case": "^4.1.0",
+		"ajv": "^6.12.6",
+		"bluebird": "^3.7.2",
+		"bn.js": "^5.1.3",
+		"camel-case": "^4.1.1",
 		"deepmerge": "^4.2.2",
 		"glob": "^7.1.6",
-		"object-mapper": "^6.0.1",
+		"object-mapper": "^6.2.0",
 		"truffle-hdwallet-provider-privkey": "^0.3.0"
 	},
 	"devDependencies": {
-		"@truffle/config": "^1.2.19",
-		"@truffle/contract": "^4.2.9",
-		"@truffle/provider": "^0.2.12",
+		"@truffle/config": "^1.2.32",
+		"@truffle/contract": "^4.2.27",
+		"@truffle/provider": "^0.2.24",
 		"chai": "^4.2.0",
 		"chai-bn": "^0.2.1",
 		"eslint-plugin-es-beautifier": "^1.0.1",
-		"mocha": "^8.0.1",
-		"release-it": "^12.4.3",
+		"mocha": "^8.2.0",
+		"release-it": "^14.2.0",
 		"run-with-testrpc": "^0.3.1",
-		"web3": "^1.2.9"
+		"web3": "^1.3.0"
 	},
 	"peerDependencies": {
 		"@truffle/config": "^1.2.7",
