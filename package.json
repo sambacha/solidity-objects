@@ -1,6 +1,6 @@
 {
 	"name": "solidity-objects",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Solidity Object Mapper",
 	"main": "index.js",
 	"directories": {
