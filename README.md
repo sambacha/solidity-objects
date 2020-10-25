@@ -1,6 +1,6 @@
 # Solidity Objects
 
-Dump all the values from a deployed contract. Includes all read-able values, including defined getters.
+Dump all the values from a deployed contract
 
 ## Quick Usage
 
